@@ -1,2 +1,9 @@
-# Dashboard sobre os Nascidos Vivos de 2023
-Dashboard sobre os Nascidos Vivos do ano de 2023, dados obtidos do SINASC, pode ser acessado no link https://dashboard-nascidos-vivos-2023.streamlit.app
+# Brazilian Live Births Dashboard (SINASC 2023)
+
+Interactive dashboard analyzing live birth data from Brazil's national health system.
+
+**Note:** Dashboard interface is in Portuguese (PT-BR) as it targets Brazilian healthcare professionals.
+
+## Technologies
+- Python, Streamlit, Plotly
+- Data source: SINASC (Brazilian Ministry of Health)
